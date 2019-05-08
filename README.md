@@ -22,9 +22,6 @@ This repository holds the [PX4](http://px4.io) flight control solution for drone
 The [PX4 User Guide](https://docs.px4.io/en/) explains how to assemble [supported vehicles](https://docs.px4.io/en/airframes/airframe_reference.html) and fly drones with PX4. 
 See the [forum and chat](https://docs.px4.io/en/#support) if you need help!
 
-## Update the Toolchain
-https://launchpad.net/~team-gcc-arm-embedded/+archive/ubuntu/ppa
-
 ## PX4 Developers
 
 This [Developer Guide](https://dev.px4.io/) is for software developers who want to modify the flight stack and middleware (e.g. to add new flight modes), hardware integrators who want to support new flight controller boards and peripherals, and anyone who wants to get PX4 working on a new (unsupported) airframe/vehicle.
